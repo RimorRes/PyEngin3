@@ -1,0 +1,6 @@
+numpy
+opencv-python >= 3.0.0
+pillow
+pyfiglet
+scipy
+pyglet
